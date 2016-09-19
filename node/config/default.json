@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
+    "appSecret": "HELLO_WORLD",
+    "pageAccessToken": "EAAQk4eVMiK0BABwTw19p8QekB5UZBZBWQGLzjttg6yQgIrYo78O9eNlI9b4q27YDEAuNf4meeh1wop4ZAebTowlG00c7EZAkV4vGHssWItSiAKFdgljUqLg7ArMZCo7KjhpIPFq1XDp23HfZB5KJ4Dq9PLjiZBwNzbbCITKNuZB43wZDZD",
     "validationToken": "",
     "serverURL": ""
 }
